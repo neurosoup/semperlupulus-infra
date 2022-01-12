@@ -1,8 +1,8 @@
 {
-  "name": "dgraph",
+  "name": "app",
   "version": "0.1.0",
   "bin": {
-    "dgraph": "bin/dgraph.js"
+    "dgraph": "bin/app.js"
   },
   "scripts": {
     "build": "tsc",

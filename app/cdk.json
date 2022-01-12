@@ -1,9 +1,7 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/dgraph.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/app.ts",
   "watch": {
-    "include": [
-      "**"
-    ],
+    "include": ["**"],
     "exclude": [
       "README.md",
       "cdk*.json",
